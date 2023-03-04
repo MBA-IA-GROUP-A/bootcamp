@@ -30,3 +30,4 @@
 
 - Sugerir crédito pré aprovado minimo por agrupamento, talvez agilizando uma venda sem que precise passar por uma analisé humana
 - A assertividade divida por cluster também traria benéficios para o time de marketing e vendas que podia prospectar clientes oferecendo o minimo de crédito em comunicações personalizadas
+- Se possível ter acesso a um dataset de produtos, talvez indicar "pacotes customizdos" para cada cluster, aumentando a chance de conversão
